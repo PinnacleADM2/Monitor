@@ -1,0 +1,3 @@
+        cryptofeed
+        asyncpg
+        psycopg2-binary
